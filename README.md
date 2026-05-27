@@ -6,6 +6,20 @@ This runbook is designed for Customer Success Managers, Technical Account Manage
 
 ---
 
+## Template Key
+
+Use the templates in this repo in this order:
+
+1. [Issue Triage Template](template-01-issue-triage.md)  
+   Capture the customer issue, business impact, priority level, troubleshooting notes, and next steps.
+
+2. [Escalation Summary Template](template-02-escalation-summary.md)  
+   Use when an issue needs support from product, engineering, a vendor, or another internal team.
+
+3. [Post-Resolution Follow-Up Template](template-03-post-resolution-follow-up.md)  
+   Use after the issue is resolved to close the loop with the customer, confirm resolution, and document follow-up needs.
+---
+
 ## Purpose
 
 Technical account support is not just troubleshooting. It is about helping customers feel informed, supported, and confident while issues are being investigated and resolved.
