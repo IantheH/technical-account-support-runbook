@@ -61,13 +61,19 @@ When a customer reports an issue, gather the following information:
 
 ### Supporting Details
 
+Add any available details:
+
 - Screenshots
+- Screen recordings
 - Error messages
 - URLs or record IDs
 - Browser/device details
-- Steps to reproduce
+- User role or permission level
 - Related integrations
 - Recent configuration changes
+- Automation or workflow history
+- System status notes
+- Related tickets or prior incidents
 
 ---
 
